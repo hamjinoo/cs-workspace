@@ -72,17 +72,16 @@
 
 ### OSI 7 layer 배우기
 
-<aside>
-💡 **미리 요약해보기
-application layer :** 애플리케이션에 필요한 통신 방법 제공
-**presentation layer** : 애플리케이션 간의 통신 메시지 포맷 관리
-**sesstion layer** : 애플리케이션 간의 통신 세션 관리
-**transport layer** : 애플리케이션 간의 통신 담당
-**network layer** : 호스트 간의 통신 담당
-**data link layer** : 직접 연결된 노드 간의 통신 담당
-**physical layer :** bit 단위의 data 전송
+💡**미리 요약해보기**   
 
-</aside>
+**application layer :** 애플리케이션에 필요한 통신 방법 제공   
+**presentation layer** : 애플리케이션 간의 통신 메시지 포맷 관리   
+**sesstion layer** : 애플리케이션 간의 통신 세션 관리   
+**transport layer** : 애플리케이션 간의 통신 담당   
+**network layer** : 호스트 간의 통신 담당   
+**data link layer** : 직접 연결된 노드 간의 통신 담당   
+**physical layer :** bit 단위의 data 전송   
+
 
 **7 application layer**   
 - 애플리케이션 목적에 맞는 통신 방법 제공
@@ -142,9 +141,8 @@ application layer :** 애플리케이션에 필요한 통신 방법 제공
 
 ---
 ### World Wide Web (web / www)
-http에 대해서 이해를 하려면 웹이 무엇인지부터 알아야 합니다.  
+http에 대해서 이해를 하려면 웹이 무엇인지부터 알아야 합니다.   
 
-<br>
 - **정의** : 인터넷을 통해 전 세계 사람들이 정보를 공유하고 접근할 수 있게 해주는 거대한 정보 공간입니다. 흔히 "웹"이라고 부르는 WWW는 웹 페이지와 웹 사이트로 구성되어 있으며, 이들을 통해 텍스트, 이미지, 비디오 등 다양한 형태의 정보를 제공하고 교환할 수 있습니다.   
 - **역할** : WWW는 정보를 하이퍼텍스트 형태로 조직화하여 사용자가 웹 브라우저를 통해 쉽게 접근하고 탐색할 수 있도록 합니다.
 
