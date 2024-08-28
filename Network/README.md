@@ -154,3 +154,38 @@ http에 대해서 이해를 하려면 웹이 무엇인지부터 알아야 합니
 - **WWW** : 웹 페이지들이 연결된 거대한 정보 공간
 - **HTTP** : 이 웹 페이지들을 웹 브라우저와 서버 간에 주고받는 통신 규약
 - **HTTP** : WWW가 작동할 수 있도록 도와주는 기반 기술입니다. WWW는 HTTP를 통해 웹 페이지들을 사용자에게 전달합니다.
+
+
+
+---
+## Socket, Port
+### TCP/IP stack
+4. application layer
+3. transport layer
+2. internet layer
+1. link layer
+
+**1-3 layer (SYSTEM)**
+- 하드웨어/펌웨어, OS 레벨에서 구현/관리
+- 네트워크 기능을 지원하는 목적
+
+**4 layer (APPLICATION)**
+- 애플리케이션 레벨에서 구현/관리
+- 네트워크 기능(1-3) 기능을 사용하는데 목적
+
+**PORT**
+- process와 연결된 data path 혹은 data channel
+- port name을 통해 식별
+
+internet protocol
+하나의 호스트에서 다른 호스트에 데이터를 보내는데 완벽히 보내주지는 않는다. (신뢰할 수 없음)
+근데 그 위에(transport layer) 프로세스 간의 통신에서는 데이터를 안정적으로 주고 받을 수 있는 프로토콜이 필요하고 그게 TCP이다.
+
+
+### Socket (internet address + port number)
+인터넷 상에 존재하는 각 port를 유니크하게 식별하기 위한 주소
+
+
+
+
+
