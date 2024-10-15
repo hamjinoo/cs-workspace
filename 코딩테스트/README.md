@@ -94,10 +94,11 @@
 |리스트(배열), 문자열| | | | |
 | 241014 | 기초 | 조건에 맞게 수열 변환하기 1 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181882)| | 
 | 241014 | 기초 | 조건에 맞게 수열 변환하기 2 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181881)| 다시 풀어보기 | 
-<!-- | 241014 | 기초 | 1로 만들기 | [보기](dddd)| |  -->
-<!-- | 241014 | 기초 | 길이에 따른 연산 | [보기](dddd)| |  -->
-<!-- | 241014 | 기초 | 원하는 문자열 찾기 | [보기](dddd)| |  -->
-<!-- | 241014 | 기초 | dd | [보기](dddd)| |  -->
+| 241015 | 기초 | 1로 만들기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181880)| 다시 풀어보기 | 
+| 241015 | 기초 | 길이에 따른 연산 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181879)|  | 
+| 241015 | 기초 | 원하는 문자열 찾기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181878)|  | 
+
+<!-- | 241015 | 기초 | dd | [보기](dddd)|  |  -->
 
 
 
