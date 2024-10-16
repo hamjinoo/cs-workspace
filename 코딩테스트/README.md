@@ -97,8 +97,14 @@
 | 241015 | 기초 | 1로 만들기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181880)| 다시 풀어보기 | 
 | 241015 | 기초 | 길이에 따른 연산 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181879)|  | 
 | 241015 | 기초 | 원하는 문자열 찾기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181878)|  | 
+| 241016 | 기초 | 대문자로 바꾸기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181877)|  | 
+| 241016 | 기초 | 소문자로 바꾸기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181876)|  | 
 
-<!-- | 241015 | 기초 | dd | [보기](dddd)|  |  -->
+<!-- | 241016 | 기초 | dd | [보기](dddd)|  |  -->
+
+<!-- | 241016 | 기초 | dd | [보기](dddd)|  |  -->
+<!-- | 241016 | 기초 | dd | [보기](dddd)|  |  -->
+<!-- | 241016 | 기초 | dd | [보기](dddd)|  |  -->
 
 
 
