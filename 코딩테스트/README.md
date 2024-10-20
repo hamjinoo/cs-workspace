@@ -99,12 +99,12 @@
 | 241015 | 기초 | 원하는 문자열 찾기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181878)|  | 
 | 241016 | 기초 | 대문자로 바꾸기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181877)|  | 
 | 241016 | 기초 | 소문자로 바꾸기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181876)|  | 
+| 241020 | 기초 | 배열에서 문자열 대소문자 변환하기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181875)|  | 
+| 241020 | 기초 | A 강조하기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181874)|  | 
+| 241020 | 기초 | 특정한 문자를 대문자로 바꾸기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181873)|  | 
 
-<!-- | 241016 | 기초 | dd | [보기](dddd)|  |  -->
+<!-- | 241020 | 기초 | dd | [보기](dddd)|  |  -->
 
-<!-- | 241016 | 기초 | dd | [보기](dddd)|  |  -->
-<!-- | 241016 | 기초 | dd | [보기](dddd)|  |  -->
-<!-- | 241016 | 기초 | dd | [보기](dddd)|  |  -->
 
 
 
