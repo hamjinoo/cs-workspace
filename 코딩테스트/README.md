@@ -102,8 +102,11 @@
 | 241020 | 기초 | 배열에서 문자열 대소문자 변환하기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181875)|  | 
 | 241020 | 기초 | A 강조하기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181874)|  | 
 | 241020 | 기초 | 특정한 문자를 대문자로 바꾸기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181873)|  | 
-
-<!-- | 241020 | 기초 | dd | [보기](dddd)|  |  -->
+|문자열| | | | |
+| 241021 | 기초 | 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181872)|  | 
+<!-- | 241021 | 기초 | 문자열이 몇 번 등장하는지 세기 | [보기](https://school.programmers.co.kr/learn/courses/30/lessons/181871)|  |  -->
+<!-- | 241021 | 기초 | dd | [보기](dddd)|  |  -->
+<!-- | 241021 | 기초 | dd | [보기](dddd)|  |  -->
 
 
 
